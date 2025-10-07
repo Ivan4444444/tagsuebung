@@ -1,3 +1,3 @@
 # Tag
 
-Das ist eine *Tag*-Übug
+Das ist eine *Tag*-Übung
